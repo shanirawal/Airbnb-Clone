@@ -1,12 +1,64 @@
-# React + Vite
+\# 🏠 AIRBNB CLONE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Transforming Stays, Inspiring Journeys Everywhere
 
-Currently, two official plugins are available:
+![Last Commit](https://img.shields.io/github/last-commit/shanirawal/Airbnb-Clone)
+![JavaScript](https://img.shields.io/badge/javascript-97.9%25-yellow)
+![Languages](https://img.shields.io/github/languages/count/shanirawal/Airbnb-Clone)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌐 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔗 [Visit Live Site](https://incredible-elf-839e33.netlify.app/)
+
+## 📂 Repository
+
+📁 [GitHub Repo](https://github.com/shanirawal/Airbnb-Clone)
+
+---
+
+## 🚀 Built With
+
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+- ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+- ![PostCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?logo=postcss&logoColor=white)
+- ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
+- ![NPM](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
+
+---
+
+## 📦 Features
+
+- 🔍 Animated, responsive Airbnb-style navbar
+- 📅 Interactive search bar with dropdowns
+- 🧑‍💼 Guest selection (adults, kids, pets)
+- 🌆 Location picker with destination suggestions
+- ⚙️ Framer Motion-based UI animations
+- 💡 Clean, modular code structure using React
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/shanirawal/Airbnb-Clone.git
+cd Airbnb-Clone
+```
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Run the development server
+```bash
+npm run dev
+```
+💬 Feedback
+Have suggestions or improvements? Feel free to open an issue or submit a pull request.
+
+
